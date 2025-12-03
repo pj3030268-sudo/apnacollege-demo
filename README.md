@@ -1,6 +1,6 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author-Piyush Joshi
+Author-Piyush (apna college)
 <br>
-Web Devlopment
+Web Devlopmentclear
